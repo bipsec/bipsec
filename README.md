@@ -1,6 +1,6 @@
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Biplab Kumar Sarkar 👋</h1>
-<h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
+<h3 align="left">Software Engineer@ Byte Trek Ltd.</h3>
 I'm a passionate Web Developer from Bangladesh with less than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. I have a strong foundation in problem solving and I try to solve at least one problem per day, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on
@@ -19,6 +19,8 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 I've very active, writing content regularly to at least one of these.
 - [Blog Link]
 - [Blog Link]
+
+
 
 ## 📫 How to reach me
 <p align="left">
