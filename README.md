@@ -1,7 +1,9 @@
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Biplab Kumar Sarkar 👋</h1>
 <h3 align="left">Software Engineer@ Byte Trek Ltd.</h3>
-I'm a passionate Web Developer from Bangladesh with less than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. I have a strong foundation in problem solving and I try to solve at least one problem per day, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
+I'm a passionate Web Developer from Bangladesh with less than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. One of my favorite pastimes is tackling complex problems on online judge platforms. I find joy in analyzing problem statements, designing efficient algorithms, and crafting elegant code solutions. Whether it's competitive programming or simply honing my skills, I enjoy the thrill of putting my logical thinking to the test.In addition to problem-solving, I have a deep fascination with data exploration. Exploring datasets, performing analysis, and visualizing information are all part of my toolkit as a data enthusiast.
+
+
 
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on a Project (a US Based medical emergency service and review analysis) as an Software Engineer, Byte Trek Limited as well as backend service of the company in other projects. I am responsible for the automation service as well.
