@@ -61,14 +61,15 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 - [Responsive Web Design]
 - [Python Basic Programming]
 - [Applied Machine Learning]
-
+<!-- 
 ## 🏆 Achievements
 - [List of professional achievements, such as awards, recognitions, or honors]
-- [List of projects you've completed that you're particularly proud of]
+- [List of projects you've completed that you're particularly proud of] -->
 
 ## 💻 Coding Contest Participation Record
-- [Name of the coding contest], [Rank], [Year]
-- [Name of the coding contest], [Rank], [Year]
+- [Astha IT Bootcamp Coding Competition], [4], [2022]
+- [Phitron Programming Contest], [153], [2022]
+- Leetcode Regular Contest - Participated on more than 10 programming contest.
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipsec&label=Profile%20views&color=0e75b6&style=flat" alt="bipsec" /> </p>
