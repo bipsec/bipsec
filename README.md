@@ -42,8 +42,8 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
  - Blog App: It's a blog app where user can post as well as update the user details with pictures. Technologies: [Python, Django,SQLite]
  - Karukuthi Ecommerce App: An ecommerce app where user can buy products, add to carts, place an order and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
 
-## 🛠️ Screenshots of Project
-<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
+<!-- ## 🛠️ Screenshots of Project
+<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;"> -->
 
 
 ## 💻 Work Experience
@@ -76,8 +76,8 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bipsec&show_icons=true&locale=en" alt="bipsec" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipsec&" alt="bipsec" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipsec" alt="bipsec" /></a> </p>
-<!-- 
-## 🏷️ Video Resources
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a> -->
+
+<!-- ## 🏷️ Video Resources
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>  -->
 
 ## 💻 Github Repositories
