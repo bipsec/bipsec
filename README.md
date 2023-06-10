@@ -69,7 +69,7 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 ## 💻 Coding Contest Participation Record
 - [Astha IT Bootcamp Coding Competition], [4], [2022]
 - [Phitron Programming Contest], [153], [2022]
-- [BJET Batch-12 Programming Contest][1][2023]
+- [BJET Batch-12 Programming Contest], [1], [2023]
 - Leetcode Regular Contest - Participated on more than 10 programming contest.
 
 ## 📈 GitHub Stats
