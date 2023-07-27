@@ -1,18 +1,18 @@
 <img alt="Coder GIF" src="https://github.com/bipsec/bipsec/blob/main/biplab_banner.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Biplab Kumar Sarkar 👋</h1>
 <h3 align="left">Software Engineer@ Byte Trek Ltd.</h3>
-I'm a passionate Web Developer from Bangladesh with less than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. One of my favorite pastimes is tackling complex problems on online judge platforms. I find joy in analyzing problem statements, designing efficient algorithms, and crafting elegant code solutions. Whether it's competitive programming or simply honing my skills, I enjoy the thrill of putting my logical thinking to the test.In addition to problem-solving, I have a deep fascination with data exploration. Exploring datasets, performing analysis, and visualizing information are all part of my toolkit as a data enthusiast.
+I'm a passionate Web Developer from Bangladesh with less than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. One of my favorite pastimes is tackling complex problems on online judge platforms. I find joy in analyzing problem statements, designing efficient algorithms, and crafting elegant code solutions. Whether it's competitive programming or simply honing my skills, I enjoy the thrill of putting my logical thinking to the test. In addition to problem-solving, I have a deep fascination with data exploration. Exploring datasets, performing analysis, and visualizing information is all part of my toolkit as a data enthusiast.
 
 
 
 ## 👨🏽‍💻 What I'm working on
-Currently, I am working on a Project (a US Based medical emergency service and review analysis) as an Software Engineer, Byte Trek Limited as well as backend service of the company in other projects. I am responsible for the automation service as well.
+Currently, I am working on a Project (a US Based medical emergency service and review analysis) as a Software Engineer at Byte Trek Limited as well as in the backend service of the company in other projects. I am responsible for the automation service as well.
 ## 🧠 What I'm currently learning
-I'm currently learning Data Engineering to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful and compentent Software Engineer.
+I'm currently learning Data Engineering to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful and competent Software Engineer.
 
 ## 💬 Ask me about
-- <b>Topics:</b> Python Programming, Object Oriented Programming, Project Architechure.
-- <b>Technologies:</b> Python, ReactJS, HTML, CSS, MySQL, PostgreSQL.
+- <b>Topics:</b> Problem Solving, Python Programming, Object Oriented Programming, Project Architechure.
+- <b>Technologies:</b> Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, Machine Learning
 
 
 ## 📫 How to reach me
@@ -36,21 +36,21 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 </p>
 
 ## 🌟 Projects
- - Reputation Management System: Us medical reviews analysis and predicting appropiate service for users as well as doctors and nurse. Technologies used: [Python, Django, Machine Learning].
- - Word Sense Disambiguation: Detecting appropiate sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
- - Web Scraping Cron: Scraping data from various source and performing ETL operation via a schedular task. Technologies used: [Python, Django, Selenium, Scrapy, PostgreSQL].
- - Blog App: It's a blog app where user can post as well as update the user details with pictures. Technologies: [Python, Django,SQLite]
- - Karukuthi Ecommerce App: An ecommerce app where user can buy products, add to carts, place an order and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
+ - Reputation Management System: Us medical reviews analysis and predicting appropriate service for users as well as doctors and nurses. Technologies used: [Python, Django, Machine Learning].
+ - Word Sense Disambiguation: Detecting the appropriate sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
+ - Web Scraping Cron: Scraping data from various sources and performing ETL operation via a scheduled task. Technologies used: [Python, Django, Selenium, Scrapy, PostgreSQL].
+ - Blog App: It's a blog app where users can post as well as update the user details with pictures. Technologies: [Python, Django, SQLite]
+ - Karukuthi E-commerce App: An e-commerce app where users can buy products, add to carts, place an order, and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
 
 <!-- ## 🛠️ Screenshots of Project
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;"> -->
 
 
 ## 💻 Work Experience
-- Byte Trek Limited, [Software Engineer], [Feb, 2023 - Current]<br />
-  I am working with google business api where users post their reviews for the service the company provided. After analyzing the review the user got a reply back from the system based on the type of the review. Technologies used: [Python, Django, Machine Learning].
-- W3 Engineers Limited, [Intern Software Engineer], [Dec 2022 - Feb,2023]<br />
-  Worked with data team and help to perform ETL operation and scraping resources from various sources. Technologies used: [Python, Django, PostgreSQL].
+- Byte Trek Limited, [Software Engineer], [Feb 2023 - Current]<br />
+  I am working with google business API where users post their reviews for the service the company provided. After analyzing the review the user got a reply back from the system based on the type of the review. Technologies used: [Python, Django, Machine Learning].
+- W3 Engineers Limited, [Intern Software Engineer], [Dec 2022 - Feb 2023]<br />
+  Worked with the data team and help to perform ETL operations and scraping resources from various sources. Technologies used: [Python, Django, PostgreSQL].
 
 ## 🎓 Education
 - Sylhet Engineering College, [BSc in CSE], [08-06-2021]
@@ -70,7 +70,7 @@ I'm currently learning Data Engineering to improve my skills and stay up-to-date
 - [Astha IT Bootcamp Coding Competition], [4], [2022]
 - [Phitron Programming Contest], [153], [2022]
 - [BJET Batch-12 Programming Contest], [1], [2023]
-- Leetcode Regular Contest - Participated on more than 10 programming contest.
+- Leetcode Regular Contest - Participated in more than 10 programming contests.
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipsec&label=Profile%20views&color=0e75b6&style=flat" alt="bipsec" /> </p>
