@@ -1,11 +1,10 @@
 <img  align="center" src="https://github.com/bipsec/bipsec/blob/main/biplab_banner_1.png" style="max-width: 100%;" data-target="animated-image.originalImage">
-<h1>Hi there, I'm Biplab Kumar Sarkar 👋</h1>
 
 ## :man_office_worker: About me
 
 I am working as a Sytem Engineer at Ariake Co. Ltd., Kumamoto, Japan. I worked as a Software Engineer in Bangladesh  for more than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. One of my favorite pastimes is tackling complex problems on online judge platforms. I find joy in analyzing problem statements, designing efficient algorithms, and crafting elegant code solutions. 
 
-## 🧠 Larning
+## 🧠 Learning
 I'm currently learning Machine Learning to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful person in this modern era.
 
 
@@ -28,7 +27,7 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
 
 
 ## 🌟 Projects
- - Bangla Dictionary PyPI Module: It's a pypi module that can serve as a dictionary with some new features.
+ - Bangla Dictionary PyPI Module: It's a PyPI module that can serve as a dictionary with some new features.
  - Online Bangla Dictionary - Created one Bangla Dictionary from scratch and currently it's on production level development and will be public soon.
  - Reputation Management System: Us medical reviews analysis and predicting appropriate service for users as well as doctors and nurses. Technologies used: [Python, Django, Machine Learning].
  - Word Sense Disambiguation: Detecting the appropriate sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
