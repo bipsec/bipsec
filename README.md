@@ -36,7 +36,7 @@ I'm currently learning Machine Learningto improve my skills and stay up-to-date 
 </p>
 
 ## 🌟 Projects
- - Bangla Dictionary Pypi Module: It's a pypi module that can serve as a dictionary with some new features.
+ - Bangla Dictionary PyPI Module: It's a pypi module that can serve as a dictionary with some new features.
  - Online Bangla Dictionary - Created one Bangla Dictionary from scratch and currently it's on production level development and will be public soon.
  - Reputation Management System: Us medical reviews analysis and predicting appropriate service for users as well as doctors and nurses. Technologies used: [Python, Django, Machine Learning].
  - Word Sense Disambiguation: Detecting the appropriate sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
@@ -50,11 +50,11 @@ I'm currently learning Machine Learningto improve my skills and stay up-to-date 
 
 ## 💻 Work Experience
 - Ariake Co. Ltd., [System Engineer],[November,2023- Current]
-  Working with GIS software tools, plugin development. 
+  Working with GIS software tools, plugin development. Technologies using: [Python, FastAPI, PostgreSQL, QGIS].
 - Byte Trek Limited, [Software Engineer], [Feb 2023 - October,2023]<br />
-  I am working with google business API where users post their reviews for the service the company provided. After analyzing the review the user got a reply back from the system based on the type of the review. Technologies used: [Python, Django, Machine Learning].
+  I worked with google business API where users post their reviews for the service the company provided. After analyzing the review the user got a reply back from the system based on the type of the review. Technologies used: [Python, FastAPI, Machine Learning].
 - W3 Engineers Limited, [Intern Software Engineer], [Dec 2022 - Feb 2023]<br />
-  Worked with the data team and help to perform ETL operations and scraping resources from various sources. Technologies used: [Python, Django, PostgreSQL].
+  Worked with the data team and helped to perform ETL operations and scraping resources from various sources. Technologies used: [Python, Django, PostgreSQL].
 
 ## 🎓 Education
 - Sylhet Engineering College, [BSc in CSE], [08-06-2021]
