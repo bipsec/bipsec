@@ -36,37 +36,12 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
  - Blog App: It's a blog app where users can post as well as update the user details with pictures. Technologies: [Python, Django, SQLite]
  - Karukuthi E-commerce App: An e-commerce app where users can buy products, add to carts, place an order, and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
 
-<!-- ## 🛠️ Screenshots of Project
-<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;"> -->
 
 ## :computer: OS
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=Windows&style=for-the-badge&logoColor=white)
-<!--
-## 💻 Work Experience
-- Ariake Co. Ltd., [System Engineer],[November,2023- Current]
-  Working with GIS software tools, plugin development. Technologies using: [Python, FastAPI, PostgreSQL, QGIS].
-- Byte Trek Limited, [Software Engineer], [Feb 2023 - October,2023]<br />
-  I worked with google business API where users post their reviews for the service the company provided. After analyzing the review the user got a reply back from the system based on the type of the review. Technologies used: [Python, FastAPI, Machine Learning].
-- W3 Engineers Limited, [Intern Software Engineer], [Dec 2022 - Feb 2023]<br />
-  Worked with the data team and helped to perform ETL operations and scraping resources from various sources. Technologies used: [Python, Django, PostgreSQL].  -->
-<!--
-## 📚 Training
-- [Astha IT Dev Bootcamp Tranning]
-- [Responsive Web Design]
-- [Python Basic Programming]
-- [Applied Machine Learning]  -->
-<!-- 
-## 🏆 Achievements
-- [List of professional achievements, such as awards, recognitions, or honors]
-- [List of projects you've completed that you're particularly proud of] -->
-<!--
-## 💻 Coding Contest Participation Record
-- [Astha IT Bootcamp Coding Competition], [4], [2022]
-- [Phitron Programming Contest], [153], [2022]
-- [BJET Batch-12 Programming Contest], [1], [2023]
-- Leetcode Regular Contest - Participated in numerous online programming contests. -->
+
 
 ## 📈 GitHub Stats
 <div style="display: flex; flex-direction: row;">
@@ -82,7 +57,3 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
   <img src="https://komarev.com/ghpvc/?username=bipsec&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="bipsec" />
 </p>
 
-<!-- ## 🏷️ Video Resources
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>  -->
-
-## 💻 Github Repositories
