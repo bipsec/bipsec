@@ -78,9 +78,13 @@ I'm currently learning Machine Learningto improve my skills and stay up-to-date 
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipsec&label=Profile%20views&color=0e75b6&style=flat" alt="bipsec" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bipsec&show_icons=true&locale=en" alt="bipsec" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipsec&" alt="bipsec" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipsec" alt="bipsec" /></a> </p>
+<div style="display: flex; flex-direction: row;">
+
+  <img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" />
+  <span>&nbsp;</span>
+  <img width="48%" height="170" src="https://streak-stats.demolab.com?user=bipsec&height=170&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+
+</div>
 
 <!-- ## 🏷️ Video Resources
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>  -->
