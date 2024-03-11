@@ -2,7 +2,7 @@
 
 ## :man_office_worker: About me
 
-I am working as a Sytem Engineer at Ariake Co. Ltd., Kumamoto, Japan. I worked as a Software Engineer in Bangladesh  for more than one year of experience in building web applications using Python, ReactJS, HTML, CSS, MySQL, PostgreSQL, etc. One of my favorite pastimes is tackling complex problems on online judge platforms. I find joy in analyzing problem statements, designing efficient algorithms, and crafting elegant code solutions. 
+I am currently employed as a System Engineer at Ariake Co. Ltd. in Kumamoto, Japan. Prior to this role, I accumulated over a year of experience as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies. My professional pursuits are complemented by a personal passion for engaging in intricate problem-solving challenges on online judge platforms. I derive immense satisfaction from meticulously analyzing problem statements, devising efficient algorithms, and crafting elegant code solutions.
 
 ## 🧠 Learning
 I'm currently learning Machine Learning to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful person in this modern era.
