@@ -5,7 +5,7 @@
 I am currently employed as a System Engineer at Ariake Co. Ltd. in Kumamoto, Japan. Prior to this role, I accumulated over a year of experience as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies. My professional pursuits are complemented by a personal passion for engaging in intricate problem-solving challenges on online judge platforms. I derive immense satisfaction from meticulously analyzing problem statements, devising efficient algorithms, and crafting elegant code solutions.
 
 ## 🧠 Learning
-I'm currently learning Machine Learning to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful person in this modern era.
+I'm currently learning Machine Learning to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual in this modern era.
 
 
 ## :ghost: My Profiles
