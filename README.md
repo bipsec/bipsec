@@ -30,7 +30,7 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
  - Bangla Dictionary PyPI Module: It's a PyPI module that can serve as a dictionary with some new features.
  - Online Bangla Dictionary - Created one Bangla Dictionary from scratch and currently it's on production level development and will be public soon.
  - Reputation Management System: Us medical reviews analysis and predicting appropriate service for users as well as doctors and nurses. Technologies used: [Python, Django, Machine Learning].
- - Word Sense Disambiguation: Detecting the appropriate sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
+ - Word Sense Disambiguation: Detecting the appropriate and actual sense of a word in a context. Technologies used: [Natural Language Processing, Machine Learning].
  - Web Scraping Cron: Scraping data from various sources and performing ETL operation via a scheduled task. Technologies used: [Python, Django, Selenium, Scrapy, PostgreSQL].
  - Blog App: It's a blog app where users can post as well as update the user details with pictures. Technologies: [Python, Django, SQLite]
  - Karukuthi E-commerce App: An e-commerce app where users can buy products, add to carts, place an order, and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
