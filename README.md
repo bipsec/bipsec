@@ -10,9 +10,9 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
 
 ## :ghost: My Profiles
 
-|  |  |  |   |
-| --- | --- | --- | --- |
-|[![Leetcode](https://img.shields.io/badge/Leetcode-informational?style=for-the-badge&logo=leetcode&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://leetcode.com/bipsec/) |[![Facebook](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://fb.com/bip.sec22/) |[![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://linkedin.com/in/biplab-kumar-sarkar/) |[![Codeforces](https://img.shields.io/badge/Codeforces-informational?style=for-the-badge&logo=codeforces&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://codeforces.com/profile/bip22)|
+|  |  |  |   |   |
+| --- | --- | --- | --- | --- |
+|[![Leetcode](https://img.shields.io/badge/Leetcode-informational?style=for-the-badge&logo=leetcode&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://leetcode.com/bipsec/) |[![Facebook](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://fb.com/bip.sec22/) |[![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://linkedin.com/in/biplab-kumar-sarkar/) |[![Codeforces](https://img.shields.io/badge/Codeforces-informational?style=for-the-badge&logo=codeforces&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://codeforces.com/profile/bip22)|[![Profile](https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=profile&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://biplab-portfolio.netlify.app/)|
 
 
 ## :fork_and_knife: Skills
