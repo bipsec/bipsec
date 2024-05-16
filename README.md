@@ -2,10 +2,10 @@
 
 ## :man_office_worker: About me
 
-I am currently employed as a System Engineer at Ariake Co. Ltd. in Kumamoto, Japan. Prior to this role, I accumulated over a year of experience as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies. My professional pursuits are complemented by a personal passion for engaging in intricate problem-solving challenges on online judge platforms. I derive immense satisfaction from meticulously analyzing problem statements, devising efficient algorithms, and crafting elegant code solutions.
+I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE]. in Kumamoto, Japan. Prior to this role, I accumulated over a year of experience as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies. My professional pursuits are complemented by a personal passion for engaging in intricate problem-solving challenges on online judge platforms. I derive immense satisfaction from meticulously analyzing problem statements, devising efficient algorithms, and crafting elegant code solutions.
 
 ## 🧠 Learning
-I'm currently learning Machine Learning to improve my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual in this modern era.
+I'm currently exploring Machine Learning Approaches to different domains to sharpern my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual in this modern era.
 
 
 ## :ghost: My Profiles
@@ -35,6 +35,13 @@ I'm currently learning Machine Learning to improve my skills and stay up-to-date
  - Blog App: It's a blog app where users can post as well as update the user details with pictures. Technologies: [Python, Django, SQLite]
  - Karukuthi E-commerce App: An e-commerce app where users can buy products, add to carts, place an order, and insert shipping address. Technologies: [ReactJS, NextJS, MongoDB]
 
+
+## 🌟 Machine Learning Projects
+ - ASR for Regional Dialects
+ - Speech Analysis
+ - RAG Implementation.
+ - IPA Transcription
+ - Data Analysis for different dataset available in Kaggle
 
 ## :computer: OS
 
