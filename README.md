@@ -39,7 +39,7 @@ I'm currently exploring Machine Learning Approaches to different domains to shar
 ## 🌟 Machine Learning Projects
  - ASR for Regional Dialects
  - Speech Analysis
- - RAG Implementation.
+ - RAG Implementation
  - IPA Transcription
  - Data Analysis for different dataset available in Kaggle
 
