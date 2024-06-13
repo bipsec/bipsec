@@ -1,4 +1,4 @@
-<img  align="center" src="https://github.com/bipsec/bipsec/blob/main/biplab_banner_1.png" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img  align="center" src="https://github.com/bipsec/bipsec/blob/main/cover.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 
 ## :man_office_worker: About me
 
