@@ -1,11 +1,11 @@
-<img  align="center" src="https://github.com/bipsec/bipsec/blob/main/cover.png" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img  align="center" src="https://github.com/bipsec/bipsec/blob/main/biplab_banner_1.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 
 ## :man_office_worker: About me
 
-I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE]. in Kumamoto, Japan. Prior to this role, I accumulated over a year of experience as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies. My professional pursuits are complemented by a personal passion for engaging in intricate problem-solving challenges on online judge platforms. I derive immense satisfaction from meticulously analyzing problem statements, devising efficient algorithms, and crafting elegant code solutions.
+I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE]. in Kumamoto, Japan. Prior to this role, I worked as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies.
 
-## 🧠 Learning
-I'm currently exploring Machine Learning Approaches to different domains to sharpern my skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful individual in this modern era.
+## 🧠 Interest
+I'm currently exploring different Machine Learning Approaches to different domains to sharpern my skills such as: RAG, MoE, LLM finetuning and stay up-to-date with the latest technologies.
 
 
 ## :ghost: My Profiles
