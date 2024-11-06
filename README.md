@@ -5,7 +5,7 @@
 I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE]. in Kumamoto, Japan. Prior to this role, I worked as a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies.
 
 ## 🧠 Interest
-I'm currently exploring different Machine Learning Approaches to different domains to sharpern my skills such as: RAG, MoE, LLM finetuning and stay up-to-date with the latest technologies.
+I'm currently exploring different Machine Learning Approaches to different domains to sharpen my skills such as: RAG, MoE, LLM finetuning and stay up-to-date with the latest technologies.
 
 
 ## :ghost: My Profiles
