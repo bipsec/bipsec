@@ -49,8 +49,19 @@ I'm currently exploring different Machine Learning Approaches to different domai
 
 
 ## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bipsec&show_icons=true&theme=radical)](https://github.com/bipsec/github-readme-stats)
 
+<!--
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/bipsec/github-readme-stats)
+
+-->
+
+<div style="display: flex; flex-direction: row;">
+
+  <img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" />
+  <span>&nbsp;</span>
+
+</div>
 
 </div>
 <br>
