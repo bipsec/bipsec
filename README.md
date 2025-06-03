@@ -47,26 +47,24 @@ I'm currently exploring different Machine Learning Approaches to different domai
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=Windows&style=for-the-badge&logoColor=white)
 
+## ✨ GitHub Contribution
+
+[![Biplab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bipsec&theme=github-compact)](https://github.com/bipsec/github-readme-activity-graph)
+
 
 ## 📈 GitHub Stats
-
-<!--
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/bipsec/github-readme-stats)
-
--->
-
 <div style="display: flex; flex-direction: row;">
 
-  <img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipsec&show_icons=true&locale=en&layout=compact&theme=transparent" alt="bipsec" /></p>
+
+  <p><img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bipsec&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" /> </p>
   <span>&nbsp;</span>
 
 </div>
 
 </div>
-<br>
-<br>
-<!-- <p align="center">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bipsec&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="bipsec" />
-</p> -->
+</p>
 
