@@ -2,11 +2,12 @@
 
 ## :man_office_worker: About me
 
-I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE] in Kumamoto, Japan. Prior to this role, I was a Software Engineer in Bangladesh, specializing in the development of web applications and ML projects utilizing Python, JavaScript, Machine Learning and other technologies.
+I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE] in Kumamoto, Japan.
 
+<!--
 ## 🧠 Interest
 I'm currently exploring different Machine Learning Approaches to different domains to sharpen my skills such as: RAG, MoE, LLM finetuning and stay up-to-date with the latest technologies.
-
+-->
 
 ## :ghost: My Profiles
 
@@ -24,7 +25,7 @@ I'm currently exploring different Machine Learning Approaches to different domai
 | [![Git](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&labelColor=17202A&color=1abc9c)](https://git-scm.com/) | [![Django](https://img.shields.io/badge/Framework-Django-informational?style=for-the-badge&logo=django&labelColor=17202A&color=1abc9c)](https://www.djangoproject.com/start/) | [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/) || [![PostGIS](https://img.shields.io/badge/DB-PostGIS-informational?style=for-the-badge&logo=postgresql&labelColor=17202A&color=1abc9c)](https://postgis.net/) | [![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)](https://devhints.io/bash) | [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/) |
 | [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/) | [![SQLServer](https://img.shields.io/badge/DB-SQL_Server-informational?style=for-the-badge&logo=microsoftsqlserver&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/) |
 
-
+<!--
 ## 🌟 Projects
  - Bangla Dictionary PyPI Module: It's a PyPI module that can serve as a dictionary with some new features.
  - Online Bangla Dictionary - Created one Bangla Dictionary from scratch and currently it's on production level development and will be public soon.
@@ -46,7 +47,7 @@ I'm currently exploring different Machine Learning Approaches to different domai
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=Windows&style=for-the-badge&logoColor=white)
-
+-->
 ## ✨ GitHub Contribution
 
 [![Biplab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bipsec&theme=github-compact)](https://github.com/bipsec/github-readme-activity-graph)
