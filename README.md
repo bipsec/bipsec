@@ -50,7 +50,7 @@ I'm currently exploring different Machine Learning Approaches to different domai
 -->
 ## ✨ GitHub Contribution
 
-[![Biplab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bipsec&theme=github-compact&days=90)](https://github.com/bipsec/github-readme-activity-graph)
+[![Biplab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bipsec&theme=github-compact&days=30)](https://github.com/bipsec/github-readme-activity-graph)
 
 
 ## 📈 GitHub Stats
