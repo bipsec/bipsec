@@ -2,7 +2,7 @@
 
 ## :man_office_worker: About me
 
-I am currently employed as a System Software Engineer at Ariake Co. Ltd [株式会社ARIAKE] in Kumamoto, Japan.
+I am a Graduate Research Assistant at North Dakota State University (NDSU).
 
 <!--
 ## 🧠 Interest
