@@ -2,7 +2,7 @@
 
 ## :man_office_worker: About me
 
-I am a Graduate Research Assistant at North Dakota State University (NDSU).
+Student at North Dakota State University (NDSU).
 
 <!--
 ## 🧠 Interest
